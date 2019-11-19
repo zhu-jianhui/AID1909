@@ -1,2 +1,7 @@
 def fun():
     print("Tom正在疯狂的工作")
+    
+    
+class Tom:
+    def __init__(self):
+        pass
