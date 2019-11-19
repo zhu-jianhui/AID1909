@@ -1,0 +1,2 @@
+def fun():
+    print("Tom正在疯狂的工作")
